@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 ### About Me
 I'm an undergrad student pursuing Electronics and Communications at SSN College of Engineering. 
-📚 Passionate about Digital Design
-⚙️ Exploring Verilog, FPGA systems, and embedded logic
-🚀 Building and sharing hardware projects, one bit at a time
+📚 Passionate about Digital Design.
+⚙️ Exploring Verilog, FPGA systems, and embedded logic.
+🚀 Building and sharing hardware projects, one bit at a time.
