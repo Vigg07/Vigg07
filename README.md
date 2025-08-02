@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there👋, I'm Vignesh
 
 <!--
 **Vigg07/Vigg07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me
+I'm an undergrad student pursuing Electronics and Communications at SSN College of Engineering. 
+📚 Passionate about Digital Design
+⚙️ Exploring Verilog, FPGA systems, and embedded logic
+🚀 Building and sharing hardware projects, one bit at a time
